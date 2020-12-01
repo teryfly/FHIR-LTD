@@ -1,0 +1,90 @@
+{
+    "banners": [
+        {
+            "img": "img/banners/3.png",
+            "title": "电子病历系统分级评价",
+            "type": "list",
+            "text": [
+                "提供完善的电子病历相关制度建议",
+                "提供10项角色指导措施",
+                "提供评价内容分析问题及改进方法指导",
+                "提供合理等级建议与建设支持思路"
+            ]
+        }
+    ],
+    "data": {
+        "one": {
+            "title": "提供完善的电子病历相关制度建议",
+            "content": "对日常工作中电子病历相关要求及把控点进行针对性培训及相关制度流程进行合理性建议",
+            "img": "img/record/img.png"
+        },
+        "two": {
+            "title": "提供10项角色指导措施",
+            "data": [
+                {
+                    "icon": "img/record/icon.png",
+                    "title": "病房医生"
+                },
+                {
+                    "icon": "img/record/icon1.png",
+                    "title": "病房护士"
+                },
+                {
+                    "icon": "img/record/icon3.png",
+                    "title": "门诊医生"
+                },
+                {
+                    "icon": "img/record/icon4.png",
+                    "title": "检查科室"
+                },
+                {
+                    "icon": "img/record/icon5.png",
+                    "title": "检验处理"
+                },
+                {
+                    "icon": "img/record/icon6.png",
+                    "title": "治疗信息处理"
+                },
+                {
+                    "icon": "img/record/icon7.png",
+                    "title": "医疗保障"
+                },
+                {
+                    "icon": "img/record/icon8.png",
+                    "title": "病历管理"
+                },
+                {
+                    "icon": "img/record/icon9.png",
+                    "title": "电子病历基础"
+                },
+                {
+                    "icon": "img/record/icon10.png",
+                    "title": "信息利用"
+                }
+            ],
+            "content": "提供定量评分、整体分级的应用方法指导，综合评价电子病历系统局部功能情况与整体应用水平分析指导，对功能、范围、环境、质量等四个方面进行合理指导",
+            "img": "img/record/img1.png"
+        },
+        "three": {
+            "title": "评价内容分析问题及改进方法引导",
+            "img": "img/record/img2.png"
+        },
+        "four": {
+            "title": "提供合理等级建议与建设支持思路",
+            "data": [
+                {
+                    "img": "img/record/img3.png",
+                    "title": "单位建设与考核任务相结合的政策分析"
+                },
+                {
+                    "img": "img/record/img4.png",
+                    "title": "资金与合理性建议评估分析"
+                },
+                {
+                    "img": "img/record/img5.png",
+                    "title": "建设方向与建设内容分析"
+                }
+            ]
+        }
+    }
+}

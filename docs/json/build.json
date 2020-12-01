@@ -1,0 +1,99 @@
+{
+    "banners": [
+        {
+            "img": "img/banners/7.png",
+            "title": "互联网医院筹备与申报/建设与运营",
+            "type": "list",
+            "text": [
+                "提供互联网医院筹备与申报咨询服务",
+                "提供互联网医院建设与运行咨询服务"
+            ]
+        }
+    ],
+    "data": {
+        "one": {
+            "title": "筹备与申报服务",
+            "content": "根据《医疗机构管理条例实施细则》、《互联网医院管理办法（试行）》及其附录中《互联网医院基本标准》要求， 为申请设置互联网医院或者以互联网医院作为第二名称提供以下咨询服务：",
+            "tree": [
+                "<ul><li><span>诊疗<span style='color: red'>科目</span>和<span style='color: red'>科室</span>设置</span></li><li><span>设施设备</span><ul><li><span><span style='color: red'>服务器</span>与音视频通讯<span style='color: red'>系统</span></span></li><li><span><span style='color: red'>网络</span>与远程<span style='color: red'>医疗</span></span></li><li><span><span style='color: red'>系统对接</span>及安全保护</span></li></ul></li><li><span>医疗服务管理体系</span><ul><li><span><span style='color: red'>规章制度</span>与应急预案</span></li><li><span><span style='color: red'>不良事件</span>防范与处置流程</span></li><li><span><span style='color: red'>岗位职责</span>与服务流程</span></li></ul></li></ul>",
+                "<ul><li><span><span style='color: red'>人员</span>：1.医护人员；2.药师</span></li><li><span>执业规则</span><ul><li><span>知情同意</span></li><li><span>开具处方</span></li><li><span style='color: red'>电子签名</span></li><li><span style='color: red'>在线处方审核</span></li><li><span>电子病历</span></li><li><span>患者自助查询</span></li></ul></li><li><span>合作协议</span></li></ul>"
+            ],
+            "desc": [
+                "协助医院独立设置并取得《医疗机构执业许可证》的互联网医院，独立作为法律责任主体"
+            ]
+        },
+        "two": {
+            "title": "建设与运营服务",
+            "one": {
+                "title": "联合运营模式",
+                "list": [
+                    {
+                        "img": "img/build/img1.png",
+                        "title": "建设主体",
+                        "subTitle": "医院"
+                    },
+                    {
+                        "img": "img/build/img2.png",
+                        "title": "投资方和建设方",
+                        "subTitle": "医院、承建方 、银行等其他投资方"
+                    },
+                    {
+                        "img": "img/build/img3.png",
+                        "title": "运营方",
+                        "subTitle": "医院、承建方共同运营"
+                    },
+                    {
+                        "img": "img/build/img4.png",
+                        "title": "运营内容",
+                        "subTitle": "网络问诊、在线护理、电子处方、快速处方、复诊管理、药事服务、医疗服务包等"
+                    }
+                ]
+            },
+            "two": {
+                "title": "推进分工",
+                "list": [
+                    {
+                        "icon": "img/build/icon1.png",
+                        "title": "医院",
+                        "desc": [
+                            "明确牵头部门，成立互联网医院项目组，负责互联网医疗服务院内流程梳理并推动落地；",
+                            "院办、医务科、门办、信息、财务、药剂等专人对接负责合作服务落地，遴选服务落地科室、设定考核机制，做好人员排班工作；",
+                            "参与服务运营临床科室，主任牵头制定医生、护士等服务内容，并推动人员上线和培训；",
+                            "信息部门支持，对接必要的信息化接口；",
+                            "财务对应相关服务的账户对接、收入核算等工作。"
+                        ]
+                    },
+                    {
+                        "icon": "img/build/icon2.png",
+                        "title": "承建方",
+                        "desc": [
+                            "组织产品服务人员，和临床科室沟通服务方案，并负责培训指导科室医务人员具备线上提供服务能力；",
+                            "服务运营人员在院区内、科室内，协助患者了解并购买相关服务，指导帮助患者掌握线上接受服务的能力；",
+                            "对合作开展的服务进行线上宣传，科室/医生品牌宣传工作；",
+                            "对医务人员有偿服务进行履约分配并代缴相关税款。"
+                        ]
+                    }
+                ]
+            },
+            "three": {
+                "title": "运营目标实现路径 — 医疗业务",
+                "img": "img/build/img5.png",
+                "left": [
+                    {
+                        "title": "2个月",
+                        "content": "全部科室医生上线"
+                    },
+                    {
+                        "title": "75%+",
+                        "content": "各科室上线医生比例不低于此"
+                    }
+                ],
+                "right": [
+                    "<span style='color:red'>抓牢医生运营。</span>运营专员 提升每个医生活跃度，患者参与度，满意度，帮助医生搭建工作室，提升医生品牌知名度。",
+                    "<span style='color:red'>拓展医疗体覆盖力。</span>待医院互联网医院运转顺利后，4个月内拓展医联体医院医生上线，争取50个医生开辟专区。充分利用医联体医院覆盖大部分区域患者。",
+                    "<span style='color:red'>提升活跃。</span>半年内医共体医院医生拓展到150位，并广泛提升活跃度。"
+                ]
+            }
+        }
+    }
+}

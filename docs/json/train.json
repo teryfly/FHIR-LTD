@@ -1,0 +1,115 @@
+{
+    "banners": [
+        {
+            "img": "img/banners/4.png",
+            "title": "HL7 FHIR标准培训",
+            "type": "text",
+            "text": [
+                "为医疗机构提供HL7 FHIR标准培训服务，分为初级、中级、高级三个等级"
+            ]
+        }
+    ],
+    "data": {
+        "img": "img/train/img.png",
+        "title": "我们的课程",
+        "courses": [
+            {
+                "title": "FHIR概述入门课",
+                "rank": 1,
+                "content": "FHIR概述、FHIR版本、官网文档排坑与勘误、FHIR资源、FHIR框架与介绍、FHIR组件介绍、FHIR术语介绍等"
+            },
+            {
+                "title": "FHIR资源类型入门",
+                "rank": 2,
+                "content": "资源类型介绍、资源类型分类方式、支撑FHIR基础框架的资源类型：RESOURCE基础资源类型、DATATYPE数据类型、DOMAIN-RESOURCE域资源类型、BASIC基本（最小集）资源类型、BINARY二进制资源类型、BUNDLE组合包资源类型等"
+            },
+            {
+                "title": "FHIR交互入门",
+                "rank": 3,
+                "content": "FHIR资源与RESTFUL API介绍、消息交换简介、文档交换简介、服务与SOA、中间库与视图、操作与搜索基础等"
+            }
+        ],
+        "courseList": [
+            {
+                "title": "FHIR术语入门",
+                "rank": 1
+            },
+            {
+                "title": "FHIR符合性配置入门",
+                "rank": 1
+            },
+            {
+                "title": "FHIR资源月与REST",
+                "rank": 2
+            },
+            {
+                "title": "FHIR本地化实施",
+                "rank": 2
+            },
+            {
+                "title": "FHIR中的操作",
+                "rank": 2
+            },
+            {
+                "title": "FHIR资源搜索与逻辑区块",
+                "rank": 2
+            },
+            {
+                "title": "FHIR的安全与隐私",
+                "rank": 2
+            },
+            {
+                "title": "FHIR的消息框架",
+                "rank": 2
+            },
+            {
+                "title": "FHIR中使用工作流",
+                "rank": 2
+            },
+            {
+                "title": "FHIR临床文档",
+                "rank": 2
+            },
+            {
+                "title": "FHIR术语体系",
+                "rank": 2
+            },
+            {
+                "title": "FHIR资源组合包",
+                "rank": 2
+            },
+            {
+                "title": "HAPI FHIR服务器搭建与应用",
+                "rank": 2
+            },
+            {
+                "title": "DTS服务器搭建与FHIR术语",
+                "rank": 3
+            },
+            {
+                "title": "FHIR实现入出转与患者主索引",
+                "rank": 3
+            },
+            {
+                "title": "FHIR申请与响应机制的应用",
+                "rank": 3
+            },
+            {
+                "title": "FHIR架构与基础框架组件",
+                "rank": 3
+            },
+            {
+                "title": "基于FHIR的流程引擎设计",
+                "rank": 3
+            },
+            {
+                "title": "FHIR临床知识库定义",
+                "rank": 3
+            },
+            {
+                "title": "FHIR路径语言（FHIRPath）",
+                "rank": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "banners": [
+        {
+            "img": "img/banners/2.png",
+            "title": "智慧医院分级评估",
+            "type": "list",
+            "text": [
+                "标准体系4S指导服务",
+                "智慧服务应当实现的功能咨询",
+                "提供功能实用、信息共享、服务智能的方向建设咨询",
+                "智慧医院问题及改进指导"
+            ]
+        }
+    ],
+    "data": {
+        "one": {
+            "img": "img/wisdom/img.png",
+            "title": "标准体系(4s)指导服务",
+            "content": "医院智慧服务分级评估标准体系(Smart Service Scoring System, 4S)",
+            "subContent": "以医院问题和需求为导向，现状评估指导和持续改进措施服务"
+        },
+        "two": {
+            "img": "img/wisdom/img1.png",
+            "title": "智慧服务应当实现的功能咨询",
+            "content": "为医院建设智慧服务信息系统提供指南，指导医院科学、合理、有序的开发、应用智慧服务信息系统",
+            "contentList": [
+                {
+                    "title": "提供指南",
+                    "img": "img/wisdom/icon.png"
+                },
+                {
+                    "title": "指导开发/应用",
+                    "img": "img/wisdom/icon1.png"
+                }
+            ]
+        },
+        "three": {
+            "title": "提供功能实用、信息共享、服务智能的方向建设咨询",
+            "contentList": [
+                {
+                    "img": "img/wisdom/img2.png",
+                    "title": "对有需求建立智慧服务的单位提供信息系统建设咨询"
+                },
+                {
+                    "img": "img/wisdom/img3.png",
+                    "title": "引导改善患者就医体检、开展全生命周期健康管理的业务引导咨询"
+                },
+                {
+                    "img": "img/wisdom/img4.png",
+                    "title": "提供智能方向建设咨询"
+                }
+            ]
+        },
+        "four": {
+            "title": "智慧医院问题及改进方法引导",
+            "contentList": [
+                {
+                    "icon": "img/wisdom/icon2.png",
+                    "subContent": "医院应用信息化手段为门急诊或住院患者提供部分服务",
+                    "content": "患者就医体验实用性优化建议及问题咨询服务",
+                    "img": "img/wisdom/img5.png"
+                },
+                {
+                    "icon": "img/wisdom/icon3.png",
+                    "subContent": "医院内部的智慧服务初步建立",
+                    "content": "便捷医疗服务优化及系统建立与咨询服务",
+                    "img": "img/wisdom/img6.png"
+                },
+                {
+                    "icon": "img/wisdom/icon4.png",
+                    "subContent": "联通医院内外的智慧服务初步建立",
+                    "content": "一体化的医疗服务流程咨询及建议指导服务",
+                    "img": "img/wisdom/img7.png"
+                },
+                {
+                    "icon": "img/wisdom/icon5.png",
+                    "subContent": "医院智慧服务基本建立",
+                    "content": "全流程的个性化、智能化服务体系建立咨询服务",
+                    "img": "img/wisdom/img8.png"
+                }
+            ]
+        }
+    }
+}

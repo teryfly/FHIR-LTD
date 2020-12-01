@@ -1,0 +1,62 @@
+[
+    {
+        "text": "首页",
+        "path": "/home"
+    },
+    {
+        "text": "业务领域",
+        "path": "/business",
+        "children": [
+            {
+                "text": "卫生健康标准咨询与培训",
+                "children": [
+                    {
+                        "text": "互联互通测评咨询",
+                        "path": "/business/evaluation"
+                    },
+                    {
+                        "text": "智慧医院服务分级与评估",
+                        "path": "/business/wisdom"
+                    },
+                    {
+                        "text": "电子病历系统分级评价",
+                        "path": "/business/record"
+                    },
+                    {
+                        "text": "FHIR标准培训与实施指导",
+                        "path": "/business/train"
+                    }
+                ]
+            },
+            {
+                "text": "医院信息化建设规划与指导",
+                "children": [
+                    {
+                        "text": "信息化规划与集成方案设计",
+                        "path": "/business/programme"
+                    },
+                    {
+                        "text": "医院信息平台项目管理服务",
+                        "path": "/business/manager"
+                    },
+                    {
+                        "text": "互联网医院筹备与申报建设与运营",
+                        "path": "/business/build"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "合作案例",
+        "path": "/cooperation"
+    },
+    {
+        "text": "联系我们",
+        "path": "/contact"
+    },
+    {
+        "text": "人才招聘",
+        "path": "/recruit"
+    }
+]
