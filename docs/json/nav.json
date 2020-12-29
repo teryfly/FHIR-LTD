@@ -42,6 +42,10 @@
                     {
                         "text": "互联网医院筹备与申报建设与运营",
                         "path": "/business/build"
+                    },
+                    {
+                        "text": "医共体信息化建议规划与设计",
+                        "path": "/business/suggest"
                     }
                 ]
             }
